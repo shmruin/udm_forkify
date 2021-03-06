@@ -14,6 +14,10 @@ https://forkify-api.herokuapp.com/v2
 
 ![Alt text](forkify-flowchart-part-3.png?raw=true "Forkifty Structure")
 
+## Code
+ * Vanilla javascript only
+ * parcel package bundler
+
 ## Features
 
  * Search recipe
